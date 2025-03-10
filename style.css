@@ -921,7 +921,8 @@ footer {
             overflow-x: hidden;
             box-shadow: 0 0 10px var(--darkbtn-txt-clr);
             border-radius: 30px;
-            width: 94%;
+            width: 92%;
+            
             padding: 10px 30px;
             margin: auto;
             background-color:#e3f2fda7;
